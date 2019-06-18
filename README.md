@@ -5,9 +5,9 @@ Install Instructions:
 1. *Windows- Place script file in: C:\Users\NAME\Documents\maya\2019\scripts
 
 2. copy paste into python console -
-import suffixNamer
-reload(suffixNamer)
-suffixNamer.Suffix().show()
+  1. import suffixNamer
+  2. reload(suffixNamer)
+  3. suffixNamer.Suffix().show()
 
 3. Highlight, then middle mouse drag code to shelf
 
